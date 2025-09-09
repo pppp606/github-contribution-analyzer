@@ -159,6 +159,14 @@ Specialized analysis tool focused on weekly contribution trends for the entire g
 python3 github_group_trends.py -f batch_analysis_visualization_data.json
 ```
 
+## Sample Output
+
+### Weekly Group Trends Analysis
+
+![Sample Weekly Trends](sample_weekly_trends.png)
+
+*Sample weekly contribution trends showing group activity patterns over time with 4-week moving average*
+
 ## Complete Workflow
 
 ```bash
