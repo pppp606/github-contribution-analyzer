@@ -165,7 +165,7 @@ python3 github_group_trends.py -f batch_analysis_visualization_data.json
 
 ![Sample Weekly Trends](sample_weekly_trends.png)
 
-*Sample weekly contribution trends showing group activity patterns over time with 4-week moving average*
+*Sample weekly contribution trends showing group activity patterns over time with 4-week moving average (Sample: GitHub employees)*
 
 ### User Comparison Analysis
 
