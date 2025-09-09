@@ -167,6 +167,18 @@ python3 github_group_trends.py -f batch_analysis_visualization_data.json
 
 *Sample weekly contribution trends showing group activity patterns over time with 4-week moving average*
 
+### User Comparison Analysis
+
+![Sample User Comparison](sample_user_comparison.png)
+
+*Top contributors comparison showing individual contribution levels (Sample: GitHub employees)*
+
+### Monthly Group Activity
+
+![Sample Monthly Contributions](sample_monthly_contributions.png)
+
+*Monthly contribution trends for the entire group over time (Sample: GitHub employees)*
+
 ## Complete Workflow
 
 ```bash
